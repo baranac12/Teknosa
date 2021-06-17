@@ -7,11 +7,11 @@
 
 ### Ekran Görüntüleri
 <p>
-<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/splash.jpg" height =400/>
-<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/category.jpg" height =400/>
-<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/listGrid.jpg" height =400/>
-<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/listLinear.jpg" height =400/>
-<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/detail.jpg" height =400/>
+<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/splash.jpg" height =380/>
+<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/category.jpg" height =380/>
+<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/listGrid.jpg" height =380/>
+<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/listLinear.jpg" height =380/>
+<img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/SCREENS/detail.jpg" height =380/>
 </p>
 
 ### Dialoglar :
