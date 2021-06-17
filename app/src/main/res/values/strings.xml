@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Teknosa</string>
+
+    <string name="internetUyariBaslik">Bağlantı Hatası</string>
+    <string name="internetUyariMesaj">İnternet Bağlantısı Yok, uygulama için açmak istermisiniz ?</string>
+    <string name="internetUyariButon1">Ayarlara Git</string>
+    <string name="internetUyariButon2">Çık</string>
+
+    <string name="EmailText">Mailinizi Giriniz</string>
+    <string name="ParolaText">Parolanızı Giriniz</string>
+    <string name="ButtonLoginText">GİRİŞ YAP</string>
+    <string name="LoginOlmaText"><u>Giriş Yapmadan Devam Et</u></string>
+    <string name="Search">Aramak istediğiniz kategoriyi yazınız.</string>
+
+    <string name="onBackPressMessage">Çıkış Yapmak istiyor musunuz?</string>
+    <string name="onBackPressButton1">Çıkış Yap</string>
+    <string name="onBackPressButton2">İptal</string>
+
+    <string name="dialogMessage">Lütfen Bekleyiniz</string>
+
+    <string name="loginGirisTrue">Giriş Başarılı</string>
+    <string name="loginGirisFalse">Kullanıcı veya parola yanlış</string>
+    <string name="loginGirisNull">Kullanıcı Bİlgilerinerini Tam giriniz</string>
+
+    <string name="detayButton">SATIN AL</string>
+
+    <string name="listSıralamaAzalan">İsme Göre Azalan</string>
+    <string name="listSıralamaArtan">İsme Göre Artan</string>
+
+
+</resources>
