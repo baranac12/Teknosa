@@ -4,6 +4,10 @@
 <img src="https://raw.githubusercontent.com/baranac12/Teknosa/master/app/src/main/res/drawable/logo.jpeg" height =250/>
 </p>
 
+Türkiyenin en çok elektronik eşya satımı yapan şirketlerden biri olan TEKNOSA'nın telefonlarla da alış veriş yapılması için yapılan bir klon uygulamadır. 
+
+<a href="https://www.teknosa.com/"> Teknosa Ana Sayfa </a>
+
 
 ### Ekran Görüntüleri
 <p>
